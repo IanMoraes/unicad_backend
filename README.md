@@ -20,7 +20,7 @@ Após a instalação das dependências, você pode iniciar o servidor de desenvo
    ```npm run dev```
 
 Isso iniciará o servidor backend e o disponibilizará em `http://localhost:PORT`, onde `PORT` é a porta definida em seu arquivo de configuração (geralmente definida em um arquivo `.env`).
-
+Defina a DATABASE_URL também em um arquivo .env
 ## Rotas
 
 O backend define rotas para gerenciar entregas (deliveries) e outras funcionalidades relacionadas ao desafio.
