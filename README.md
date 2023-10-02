@@ -10,15 +10,14 @@ Para executar o projeto, siga os passos abaixo:
 
 2. No diretório raiz do projeto, execute o seguinte comando para instalar as dependências:
 
-   ```bash
-   npm install```
+   ```npm install```
 
    
 ## Execução
 
 Após a instalação das dependências, você pode iniciar o servidor de desenvolvimento com o seguinte comando:
 
-   ```bash npm run dev```
+   ```npm run dev```
 
 Isso iniciará o servidor backend e o disponibilizará em `http://localhost:PORT`, onde `PORT` é a porta definida em seu arquivo de configuração (geralmente definida em um arquivo `.env`).
 
